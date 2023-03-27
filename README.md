@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Daffa K.
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
 
